@@ -1,0 +1,11 @@
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\bin\Debug\SchoolHRadministration.exe.config
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\bin\Debug\SchoolHRadministration.exe
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\bin\Debug\SchoolHRadministration.pdb
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\bin\Debug\ClassLibrary1.dll
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\bin\Debug\ClassLibrary1.pdb
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.csproj.CopyComplete
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.exe
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\SchoolHRadministration\obj\Debug\SchoolHRadministration.pdb

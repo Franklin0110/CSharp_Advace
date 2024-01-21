@@ -1,0 +1,6 @@
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\bin\Debug\ClassLibrary1.dll
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\bin\Debug\ClassLibrary1.pdb
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\obj\Debug\ClassLibrary1.dll
+C:\Users\Covar\Documents\CSharp_Advance\SchoolHRadministration\HRAdministrationAPI\obj\Debug\ClassLibrary1.pdb
