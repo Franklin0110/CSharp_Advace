@@ -1,0 +1,16 @@
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\bin\Debug\Delegates.exe.config
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\bin\Debug\Delegates.exe
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\bin\Debug\Delegates.pdb
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\obj\Debug\Delegates.exe
+C:\Users\Covar\Documents\CSharp_Advance\Delegates\Delegates_1\obj\Debug\Delegates.pdb
