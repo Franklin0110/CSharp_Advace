@@ -2568,23 +2568,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\covar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Covar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\covar\\Desktop\\CsharpAdvance\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
       "projectName": "ClubMembershipApplication",
-      "projectPath": "C:\\Users\\covar\\Desktop\\CsharpAdvance\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
-      "packagesPath": "C:\\Users\\covar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\covar\\Desktop\\CsharpAdvance\\ClubMembershipApplication\\ClubMembershipApplication\\obj\\",
+      "projectPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
+      "packagesPath": "C:\\Users\\Covar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\ClubMembershipApplication\\ClubMembershipApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\covar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Covar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2593,7 +2595,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2643,7 +2644,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
