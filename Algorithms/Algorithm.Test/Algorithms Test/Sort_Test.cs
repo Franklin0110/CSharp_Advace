@@ -11,7 +11,7 @@ using System.Text.Json;
 
 namespace Algorithm.Test.Algorithms_Test
 {
-    public class BoobleSort_Test
+    public class Sort_Test
     {
         [Fact]
         public void SortMethods_BoobleSort_ReturnArraySorted()
