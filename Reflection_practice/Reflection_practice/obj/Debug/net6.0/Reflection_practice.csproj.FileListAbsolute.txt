@@ -1,0 +1,15 @@
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.csproj.AssemblyReference.cache
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.AssemblyInfoInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.AssemblyInfo.cs
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.csproj.CoreCompileInputs.cache
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\bin\Debug\net6.0\Reflection_practice.exe
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\bin\Debug\net6.0\Reflection_practice.deps.json
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\bin\Debug\net6.0\Reflection_practice.runtimeconfig.json
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\bin\Debug\net6.0\Reflection_practice.dll
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\bin\Debug\net6.0\Reflection_practice.pdb
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.dll
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\refint\Reflection_practice.dll
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.pdb
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\Reflection_practice.genruntimeconfig.cache
+C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\obj\Debug\net6.0\ref\Reflection_practice.dll

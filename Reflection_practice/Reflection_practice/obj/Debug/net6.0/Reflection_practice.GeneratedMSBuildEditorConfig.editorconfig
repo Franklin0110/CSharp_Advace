@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = JsonConverterNameSpace
-build_property.ProjectDir = C:\Users\Covar\Documents\CSharp_Advance\JsonConverterNameSpace_Practice\JsonConverterNameSpace_Practice\
+build_property.RootNamespace = Reflection_practice
+build_property.ProjectDir = C:\Users\Covar\Documents\CSharp_Advance\Reflection_practice\Reflection_practice\
