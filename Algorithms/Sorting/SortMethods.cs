@@ -18,7 +18,7 @@ public class SortMethods
     /// </summary>
     public int[] MergeSort(int[] array)
     {
-        return (Merge(BubbleSort(array.Take((array.Length + 1) / 2).ToArray()), BubbleSort(array.Skip((array.Length + 1) / 2).ToArray())));
+        return (Merge(BoobleSort(array.Take((array.Length + 1) / 2).ToArray()), BoobleSort(array.Skip((array.Length + 1) / 2).ToArray())));
     }
 
     /// <summary>
@@ -68,7 +68,7 @@ public class SortMethods
     /// SortedArray = {1,2,3,4,5} 
     /// </example>
     /// </summary>
-    public int[] BubbleSort(int[] array)
+    public int[] BoobleSort(int[] array)
     {
         int _temporalValue = 0;
         for (int iterator = 0; iterator < array.Length; iterator++)
