@@ -12,8 +12,14 @@ namespace Sorting
         public static void Main()
         {
             SortMethods sortmethods = new SortMethods();
-            int[] array = { 7, 3, 5, 4, 8, 9 };
-            printArray(sortmethods.MergeSort(array));
+            Random random = new Random();
+            int[] array = new int[random.Next(1, 30)];
+            //Act
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(1, 10);
+            }
+            sortmethods.SelectionSort(array);
 
         }
         /// <summary>

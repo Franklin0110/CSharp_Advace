@@ -5,7 +5,7 @@ using System.Linq;
 public class SortMethods
 {
     // <summary>
-    /// Returns an sorted array.
+    /// Returns an sorted array in mergeSort method.
     /// <example>
     /// For example:
     /// <code>
@@ -57,7 +57,7 @@ public class SortMethods
     }
 
     /// <summary>
-    /// Returns an sorted array.
+    /// Returns an sorted array with BoobleSort method.
     /// <example>
     /// For example:
     /// <code>
@@ -82,6 +82,40 @@ public class SortMethods
                     array[i + 1] = _temporalValue;
                 }
             }
+        }
+        return array;
+    }
+
+    /// <summary>
+    /// Returns an sorted array with selection method.
+    /// <example>
+    /// For example:
+    /// <code>
+    /// int[] array = {5,1,4,3,2}
+    /// SortHalf(array)
+    /// </code>
+    /// Results:
+    /// SortedArray = {1,2,3,4,5} 
+    /// </example>
+    /// </summary>
+    public int[] SelectionSort(int[] array)
+    {
+        int _MinPosition = 0;
+        int min = 0;
+        for (int i = 0; i < array.Length ; i++)
+        {
+            min = array[i];
+
+            for (int j = i; j < array.Length; j++)
+            {
+                if (array[j] < min)
+                {
+                    _MinPosition = j;
+                    min = array[j];
+                }
+            }
+            array[_MinPosition] = array[i];
+            array[i] = min;
         }
         return array;
     }
