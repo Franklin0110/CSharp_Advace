@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\JsonParse\\JsonParse\\JsonParse.csproj",
-      "projectName": "JsonParse",
-      "projectPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\JsonParse\\JsonParse\\JsonParse.csproj",
+      "projectUniqueName": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\Reflection\\Reflection\\JsonConverterNameSpace.csproj",
+      "projectName": "JsonConverterNameSpace",
+      "projectPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\Reflection\\Reflection\\JsonConverterNameSpace.csproj",
       "packagesPath": "C:\\Users\\Covar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\JsonParse\\JsonParse\\obj\\",
+      "outputPath": "C:\\Users\\Covar\\Documents\\CSharp_Advance\\Delegates\\Reflection\\Reflection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
