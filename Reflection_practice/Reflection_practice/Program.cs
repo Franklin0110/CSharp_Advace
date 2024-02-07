@@ -3,7 +3,7 @@ using System.Reflection;
 public class MainClass
 {
 
-
+    //Trying to get the information of the object, we need to get his values, without refering them directly.
     public static void Main()
     {
         anobject patito = new anobject();
@@ -29,7 +29,7 @@ public class MainClass
 
 
 }
-
+//Testing object
 public class anobject
 {
 
